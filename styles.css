@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.se{
+	
+
+	display: flex;
+	justify-content: space-evenly;
+	
+	
+}
+.div{
+
+	padding:5px;
+	
+}
